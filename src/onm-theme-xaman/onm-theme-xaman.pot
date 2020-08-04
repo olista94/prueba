@@ -1,0 +1,44 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Contribute"
+msgstr ""
+
+msgid "Send us your news"
+msgstr ""
+
+msgid "Check Your Email"
+msgstr ""
+
+msgid "Galerías"
+msgstr ""
+
+msgid "Latest news"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Album"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Send by mail"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Contact now by email"
+msgstr ""
+
+msgid "Contact now"
+msgstr ""
