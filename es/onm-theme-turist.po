@@ -5,7 +5,7 @@ msgid "Hello"
 msgstr "Hola"
 
 msgid "How are you"
-msgstr "How are you"
+msgstr "Como estas"
 
 msgid "See you soon"
 msgstr "See you soon"
