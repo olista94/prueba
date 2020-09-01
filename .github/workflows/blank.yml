@@ -22,12 +22,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-
       # Runs a set of commands using the runners shell
       - name: Run msgcat
         run: msgcat -o build/onm.po $(find src -type f)
+        
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           # Required
