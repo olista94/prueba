@@ -10,7 +10,7 @@ msgstr ""
 msgid "Check Your Email"
 msgstr ""
 
-msgid "Galerías"
+msgid "Gallery"
 msgstr ""
 
 msgid "Latest news"
