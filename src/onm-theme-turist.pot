@@ -8,5 +8,7 @@ msgid "How are you"
 msgstr ""
 
 msgid "See you soon"
-msgstr ""
+msgstr "
 
+msgid "Bye"
+msgstr ""
