@@ -10,8 +10,8 @@ msgstr "Send us your news"
 msgid "Check Your Email"
 msgstr "Check Your Email"
 
-msgid "Galerías"
-msgstr "Galerías"
+msgid "Gallery"
+msgstr "Gallery"
 
 msgid "Latest news"
 msgstr "Latest news"
