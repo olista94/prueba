@@ -1,5 +1,5 @@
 # Prueba
-Repositorio de prueba para extraer string de archivos .po
+Repositorio de prueba para extraer string de archivos .po y crear archivos .po
 
 En `/src` estan todos los archivos .po con las strings
 
