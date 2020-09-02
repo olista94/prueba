@@ -1,6 +1,24 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "Hi"
+msgstr ""
+
+msgid "Nice to see you"
+msgstr ""
+
+msgid "Bye my friend"
+msgstr ""
+
+msgid "Tell me more"
+msgstr ""
+
+msgid "See yo soon"
+msgstr ""
+
+msgid "Talk me about you"
+msgstr ""
+
 msgid "Contribute"
 msgstr ""
 
