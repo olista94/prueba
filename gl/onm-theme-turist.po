@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "How are you"
+msgstr "How are you"
+
+msgid "See you soon"
+msgstr "See you soon"
+
+msgid "Bye"
+msgstr "Bye"

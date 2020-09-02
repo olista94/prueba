@@ -2,43 +2,43 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "Contribute"
-msgstr ""
+msgstr "Contribute"
 
 msgid "Send us your news"
-msgstr ""
+msgstr "Send us your news"
 
 msgid "Check Your Email"
-msgstr ""
+msgstr "Check Your Email"
 
 msgid "Gallery"
-msgstr ""
+msgstr "Gallery"
 
 msgid "Latest news"
-msgstr ""
+msgstr "Latest news"
 
 msgid "Comments"
-msgstr ""
+msgstr "Comments"
 
 msgid "in"
-msgstr ""
+msgstr "in"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 msgid "Send by mail"
-msgstr ""
+msgstr "Send by mail"
 
 msgid "Print"
-msgstr ""
+msgstr "Print"
 
 msgid "Contact now by email"
-msgstr ""
+msgstr "Contact now by email"
 
 msgid "Contact now"
-msgstr ""
+msgstr "Contact now"
